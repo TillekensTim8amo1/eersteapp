@@ -8,8 +8,9 @@
     <string name="previous">Previous</string>
 
     <string name="hello_first_fragment">0</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="random_heading">Here is a random number between 0 and %d.</string>
     <string name="toast_button_tekst">Toast</string>
     <string name="count_button_tekst">Count</string>
     <string name="toast_message_tekst">Hello toast!</string>
+    <string name="textview_random_text">R</string>
 </resources>
